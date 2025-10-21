@@ -7,3 +7,4 @@ It served as the foundation for the core game logic while I implemented gesture 
 
 This project is purely educational and curiosity-driven, with no intention of commercial use.
 
+![UML Diagram](class_diagram_flapwings.png)
